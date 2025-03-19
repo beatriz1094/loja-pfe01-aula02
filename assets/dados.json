@@ -1,0 +1,109 @@
+[
+    {
+        "id":1,
+        "produto":"Pulseira",
+        "descricao":"Pandora",
+        "preco":799.0,
+        "imagem":"https://img.irroba.com.br/filters:fill(fff):quality(80)/michelet/catalog/produtos-2024/pandora/bracelete-pandora-com-fecho-de-coracao-590719-micheletti-joias.jpg"
+    },
+
+    {
+            "id":2,
+            "produto":"Colar",
+            "descricao":"Tiffany",
+            "preco":1.550,
+            "imagem":"https://tiffany.vtexassets.com/arquivos/ids/171564/colar-tiffany-infinity-prata-de-lei-37725951_1.jpg?v=638285955575070000"
+    
+    },
+
+    {
+        "id":3,
+        "produto":"Anel",
+        "descricao":"Vivara",
+        "preco":180.0,
+        "imagem":"https://lojavivara.vtexassets.com/arquivos/ids/730091/Anel-Life-Bolinhas-Duplo-Prata-73554_1_set.jpg?v=638437273659600000"
+
+    },
+
+    {
+        "id":4,
+        "produto":"Bracelete",
+        "descricao":"Cartier",
+        "preco":180.0,
+        "imagem":"https://www.cartier.com/variants/images/1647597277058376/img1/w960.jpg"
+
+    },
+
+    {
+        "id":5,
+        "produto":"Relogio",
+        "descricao":"Vivara",
+        "preco":650.0,
+        "imagem":"https://lojavivara.vtexassets.com/arquivos/ids/926362/Relogio-Life-Sucesso-Feminino-Aco-Prateado-87249_1_set.jpg?v=638742996745130000"
+
+    },
+
+    {
+        "id":6,
+        "produto":"Brinco",
+        "descricao":"Swarovski",
+        "preco":482.7,
+        "imagem":"https://opticasantarosa.com.br/cdn/shop/products/5521735_1-480x576_580x.jpg?v=1585680176"
+
+    },
+
+    {
+        "id":7,
+        "produto":"Colar",
+        "descricao":"Swarovski",
+        "preco":1.620,
+        "imagem":"https://cdn.awsli.com.br/600x1000/1109/1109747/produto/242716397/product112584-5715_cropped-jpg-thumb_fffcfa_1214x1000-x2t1481ci6.jpg"
+
+    },
+
+    {
+        "id":8,
+        "produto":"Anel",
+        "descricao":"Pandora",
+        "preco":1.259,
+        "imagem":"https://pandorajoias.vtexassets.com/arquivos/ids/346781/PNGTRPNT_197736CZ_RGB.png?v=638751377658930000"
+
+    },
+
+    {
+        "id":9,
+        "produto":"Berloque",
+        "descricao":"PAndora",
+        "preco":69.0,
+        "imagem":"https://http2.mlstatic.com/D_NQ_NP_635295-MLB54294137266_032023-O.webp"
+
+    },
+
+    {
+        "id":10,
+        "produto":"Pulseira",
+        "descricao":"Vivara",
+        "preco":670.0,
+        "imagem":"https://lojavivara.vtexassets.com/arquivos/ids/860204/Pulseira-Life-Coracao-em-Prata-925-com-Pedras-Incolores-84951_1_set.jpg?v=638518270117200000"
+
+    },
+
+    {
+        "id":11,
+        "produto":"Anel",
+        "descricao":"Vivara",
+        "preco":4.770,
+        "imagem":"https://lojavivara.vtexassets.com/arquivos/ids/912631/Anel-Vivara-em-Ouro-Branco-18k-com-Diamantes-8704_1_set.jpg?v=638738598111270000"
+
+    },
+
+    {
+        "id":12,
+        "produto":"Colar",
+        "descricao":"Tiffany",
+        "preco":23.750,
+        "imagem":"https://tiffany.vtexassets.com/arquivos/ids/171905/colar-tiffany-t-smile-em-ouro-branco-com-diamantes-63058807_1.jpg?v=638285956996800000"
+
+    }
+
+]
