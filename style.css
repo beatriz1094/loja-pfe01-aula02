@@ -6,8 +6,8 @@
 
 :root{
     --c1: #b8b8b8 ;
-    --c2: #494949;
-    --c3: #333;
+    --c2: #5c5b5b;
+    --c3: #b89d64;
     --c4: #575757;
     --t1: rgba(99,98,98,0.3);
     --t2: rgba(,0,0,0,0.7);
@@ -30,8 +30,22 @@ header, footer {
     height: 10vh;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-around;
+
+    & button{
+        background-color: var(--c3);
+        border: none;
+        padding: 5px 10px;
+        border-radius: 5px;
+        box-shadow: 0 0 5px var(--t2);
+        font-weight: bold;
+        cursor: pointer;
+
+    }
+
 }
+
+
 
 main {
     width: 100%;
@@ -58,7 +72,7 @@ main {
     box-shadow: 0 0 5px var(--t2);
     gap: 10px;
 
-    &img{
+    & img{
         max-width: 250px;
     }
 

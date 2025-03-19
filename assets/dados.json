@@ -20,7 +20,7 @@
         "id":3,
         "produto":"Anel",
         "descricao":"Vivara",
-        "preco":180.0,
+        "preco":38.600,
         "imagem":"https://lojavivara.vtexassets.com/arquivos/ids/730091/Anel-Life-Bolinhas-Duplo-Prata-73554_1_set.jpg?v=638437273659600000"
 
     },
@@ -29,7 +29,7 @@
         "id":4,
         "produto":"Bracelete",
         "descricao":"Cartier",
-        "preco":180.0,
+        "preco":38.600,
         "imagem":"https://www.cartier.com/variants/images/1647597277058376/img1/w960.jpg"
 
     },
@@ -63,10 +63,10 @@
 
     {
         "id":8,
-        "produto":"Anel",
-        "descricao":"Pandora",
+        "produto":"Ocúlos",
+        "descricao":"Tiffany",
         "preco":1.259,
-        "imagem":"https://pandorajoias.vtexassets.com/arquivos/ids/346781/PNGTRPNT_197736CZ_RGB.png?v=638751377658930000"
+        "imagem":"https://wanny.vteximg.com.br/arquivos/ids/181855-750-750/Produto.jpg?v=638158392693470000"
 
     },
 
